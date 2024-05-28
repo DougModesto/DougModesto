@@ -1,16 +1,14 @@
-## Hi there 👋
+## OLHA EU AQUIII, BEM VINDO!!!😎
 
-<!--
-**DougModesto/DougModesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Opaa tudo bem?! Eu sou o Douglas Modesto😁 Prazer em recebe-lo!!
 
-Here are some ideas to get you started:
+![](https://media1.tenor.com/m/b4ma74q0qL8AAAAC/your-welcome.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Como desenvolver a linguagem Java na programação;
+
+- Estudando na plataforma Alura, também, outras linguagens de programação.
+
+- ### Você pode me encontrar clicando no link abaixo👇:
+
+  00001110078201sp@al.educacao.sp.gov.br
+  
